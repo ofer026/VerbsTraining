@@ -1,0 +1,9 @@
+/.idea
+/build
+/database
+log.txt
+main 2.0.spec
+playsound.py
+test.py
+/venv
+/__pycache__
